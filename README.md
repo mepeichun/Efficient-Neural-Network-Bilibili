@@ -5,7 +5,7 @@ B站Efficient-Neural-Network学习分享的配套代码
 
 [2] 神经网络剪枝：https://www.bilibili.com/video/av86253919
 
-[3] 神经网络量化：【制作中】
+[3] 神经网络量化：https://www.bilibili.com/video/av86754124
 
 [4] 知识蒸馏：【制作中】
 
